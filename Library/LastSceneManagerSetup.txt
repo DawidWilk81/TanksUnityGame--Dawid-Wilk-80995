@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Tanks-Tutorial - Dawid Wilk 80995.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
